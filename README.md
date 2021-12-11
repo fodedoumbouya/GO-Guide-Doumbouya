@@ -40,6 +40,7 @@
 <img src="https://cdn.discordapp.com/attachments/917033946758402048/918879338751983666/unknown.png" style="zoom:50%;" />
 	Ecrivons maintenant notre premier code
 	/*
+	//----------------------------Code ---------------------------
 	package main
 
 	import "fmt"
@@ -47,6 +48,7 @@
 	func main() {
     		fmt.Println("Hello world!")
 	}
+	//--------------------------Fin------------------------------
 	
 	*/
 	Ctrl + S pour sauvegarder le fichier
