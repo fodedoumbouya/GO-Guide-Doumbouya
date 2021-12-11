@@ -22,4 +22,5 @@
 	VS Code : (https://code.visualstudio.com/download)
 	下载体验(Android)：[点击下载](http://www.flutterj.com/app-release.apk)
 	![](images/version.png)
+*  微信图库：https://github.com/fluttercandies/flutter_wechat_assets_picker
 
