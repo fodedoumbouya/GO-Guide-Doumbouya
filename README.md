@@ -41,13 +41,13 @@
 	Ecrivons maintenant notre premier code
 	/*
 //----------------------------Code ---------------------------
-package main
+# package main
 
-import "fmt"
+# import "fmt"
 
-func main() {
-    	fmt.Println("Hello world!")
-}
+# func main() {
+#    	fmt.Println("Hello world!")
+# }
 //--------------------------Fin------------------------------
 	
 	*/
