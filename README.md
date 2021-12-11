@@ -1,6 +1,5 @@
 # GO-Guide-Doumbouya
 
-# ----------Fin---------------
 
 # Installation
 # step 1 
