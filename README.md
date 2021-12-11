@@ -1,5 +1,6 @@
 # GO-Guide-Doumbouya
 
+# ----------Fin---------------
 
 # Installation
 # step 1 
@@ -25,7 +26,7 @@
 <img src="https://cdn.discordapp.com/attachments/917033946758402048/918877349624315924/unknown.png" style="zoom:50%;" />
 	* Installation de Go package dans VS Code
 <img src="https://cdn.discordapp.com/attachments/917033946758402048/918877964110823434/unknown.png" style="zoom:50%;" />
-<img src="https://cdn.discordapp.com/attachments/917033946758402048/918877964337295461/unknown.pngg" style="zoom:50%;" />
+<img src="https://cdn.discordapp.com/attachments/917033946758402048/918877964337295461/unknown.png" style="zoom:50%;" />
 
 # step 4
 	* Ecrire Notre premier code
@@ -39,16 +40,15 @@
 	Exemple : first.go
 <img src="https://cdn.discordapp.com/attachments/917033946758402048/918879338751983666/unknown.png" style="zoom:50%;" />
 	Ecrivons maintenant notre premier code
-	/*
-//----------------------------Code ---------------------------
-# package main
+	
+# ----------Code ------------
+* package main
 
-# import "fmt"
-
-# func main() {
-#    	fmt.Println("Hello world!")
-# }
-//--------------------------Fin------------------------------
+* import "fmt"
+* func main() {
+*    	fmt.Println("Hello world!")
+* }
+# ----------Fin---------------
 	
 	*/
 	Ctrl + S pour sauvegarder le fichier
