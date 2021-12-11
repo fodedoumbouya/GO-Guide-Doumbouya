@@ -19,7 +19,7 @@
 # step 3
 	* éditeur de texte
 	Nous allons télécharger un éditeur de texte pour écrire nos codes, je vous recommande de télécharger VS Code via le lien
-	VS Code : (https://code.visualstudio.com/download)
+* VS Code :  https://code.visualstudio.com/download
 	下载体验(Android)：[点击下载](http://www.flutterj.com/app-release.apk)
 	![](images/version.png)
 *  微信图库：https://github.com/fluttercandies/flutter_wechat_assets_picker
