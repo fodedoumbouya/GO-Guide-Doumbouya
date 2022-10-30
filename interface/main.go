@@ -35,7 +35,7 @@ func main() {
 
 	// we created our structures
 	dog := Dog{name: "dog"}
-	bird := Bird{name: "bird"}
+	bird := Bird{name: "bird"}   
 	food := Food{name: "pizza"}
 
 	// we can manually show movingInfo
