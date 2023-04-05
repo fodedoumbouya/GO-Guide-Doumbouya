@@ -9,6 +9,7 @@ type Person struct {
 	Sexe string
 }
 
+//https://golangdocs.com/channels-in-golang
 // this Function only help us to put value in the channek
 func SendToChannel(channel chan Person, person Person) {
 	channel <- person
